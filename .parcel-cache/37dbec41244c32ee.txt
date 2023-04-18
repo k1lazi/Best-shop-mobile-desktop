@@ -1,4 +1,4 @@
-4415
+4423
 111D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js121436361000000000 0
 77D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite133262829606145191 1
 104D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\features\png-alpha.js121436361000000000 0
@@ -12,14 +12,14 @@
 61D:\Programowanie\Coderslab\Best-shop-mobile-desktop\README.md133262820827614212 0
 69D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@swc133262829604573967 1
 94D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\core\lib\constants.js121436361000000000 0
-57D:\Programowanie\Coderslab\Best-shop-mobile-desktop\.idea133262835600114133 1
+57D:\Programowanie\Coderslab\Best-shop-mobile-desktop\.idea133262846134423383 1
 85D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\source-map\README.md131508293880000000 0
 96D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\regions\TV.js121436361000000000 0
 84D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\type-fest\base.d.ts121436361000000000 0
-69D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project133262836629142565 1
+69D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project133262846133972636 1
 96D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\regions\IT.js121436361000000000 0
-80D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\index.html133262832017070866 0
-56D:\Programowanie\Coderslab\Best-shop-mobile-desktop\dist133262832019543390 1
+80D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\index.html133262846133972636 0
+56D:\Programowanie\Coderslab\Best-shop-mobile-desktop\dist133262846138914823 1
 93D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\transformer-html\src133262829583247634 1
 108D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\workers\lib\threads\ThreadsChild.js121436361000000000 0
 81D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\term-size\vendor133262829585433011 1
@@ -323,6 +323,7 @@
 77D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\lightningcss133262829607970551 1
 86D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\is-json\test\index.js131186033810000000 0
 87D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\browserslist\README.md121436361000000000 0
+75D:\Programowanie\Coderslab\Best-shop-mobile-desktop\dist\index.8fc520f9.css133262846138843167 0
 92D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\lightningcss-win32-x64-msvc133262829607970551 1
 84D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\stable\package.json133262829607285265 0
 91D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\utility-types\CHANGELOG.md121436361000000000 0
@@ -784,6 +785,7 @@
 82D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\mdn-data\index.js121436361000000000 0
 95D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\type-fest\source\asyncify.d.ts121436361000000000 0
 117D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\fs-search\fs-search.linux-arm-gnueabihf.node121436361000000000 0
+79D:\Programowanie\Coderslab\Best-shop-mobile-desktop\dist\index.8fc520f9.css.map133262846138854367 0
 94D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\electron-to-chromium\index.js121436361000000000 0
 90D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\weak-lru-cache\index.d.ts121436361000000000 0
 95D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\svgo\plugins\removeComments.js121436361000000000 0
@@ -1651,6 +1653,7 @@
 96D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\regions\FI.js121436361000000000 0
 87D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\path-type\package.json133262829607448151 0
 106D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\electron-to-chromium\chromium-versions.js121436361000000000 0
+90D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\assets\shop-icon.png133262842131754249 0
 116D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\features\dom-manip-convenience.js121436361000000000 0
 84D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\path-type\readme.md121436361000000000 0
 116D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1121436361000000000 0
@@ -1924,7 +1927,7 @@
 81D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\lmdb\src\txn.cpp121436361000000000 0
 128D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg133262829593743678 1
 83D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\lmdb\src\windows.c121436361000000000 0
-67D:\Programowanie\Coderslab\Best-shop-mobile-desktop\dist\index.html133262832019543390 0
+67D:\Programowanie\Coderslab\Best-shop-mobile-desktop\dist\index.html133262846138914823 0
 116D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c121436361000000000 0
 96D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\regions\EG.js121436361000000000 0
 84D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\lmdb\src\writer.cpp121436361000000000 0
@@ -2338,6 +2341,7 @@
 129D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\core\test\fixtures\custom-format-infer-type\package.json121436361000000000 0
 103D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\entities\lib\decode_codepoint.d.ts.map121436361000000000 0
 101D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\features\brotli.js121436361000000000 0
+99D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\settings\_variables.scss133262846912598984 0
 94D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\entities\lib\encode-trie.d.ts121436361000000000 0
 93D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\.bin\node-gyp-build-test.ps1133262829608485005 0
 98D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\entities\lib\encode-trie.d.ts.map121436361000000000 0
@@ -2670,6 +2674,7 @@
 102D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\features\netinfo.js121436361000000000 0
 93D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\css-tree\dist\csstree.min.js121436361000000000 0
 87D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\css-tree\data\index.js121436361000000000 0
+79D:\Programowanie\Coderslab\Best-shop-mobile-desktop\dist\shop-icon.962cfdcf.png133262846138698387 0
 89D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\css-tree\data\patch.json121436361000000000 0
 96D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\regions\BN.js121436361000000000 0
 79D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\css-select\lib133262829588508544 1
@@ -3211,7 +3216,7 @@
 109D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\features\input-datetime.js121436361000000000 0
 114D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\features\input-email-tel-url.js121436361000000000 0
 96D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\transformer-svg\LICENSE121436361000000000 0
-83D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\settings133262837037098500 1
+83D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\settings133262846912598984 1
 111D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\features\publickeypinning.js121436361000000000 0
 106D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\features\input-event.js121436361000000000 0
 112D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\caniuse-lite\data\features\input-file-accept.js121436361000000000 0
@@ -3478,7 +3483,7 @@
 77D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@swc\helpers133262829606929701 1
 81D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@swc\helpers\lib133262829588971398 1
 90D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@swc\helpers\package.json133262829606853910 0
-90D:\Programowanie\Coderslab\Best-shop-mobile-desktop\dist\best-shop-project.734111f3.js.map133262831819387907 0
+90D:\Programowanie\Coderslab\Best-shop-mobile-desktop\dist\best-shop-project.734111f3.js.map133262846138714277 0
 106D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@swc\helpers\src\_array_like_to_array.mjs132996204500000000 0
 103D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@swc\helpers\src\_array_with_holes.mjs132996204500000000 0
 99D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\core\src\CommittedAsset.js121436361000000000 0
@@ -3802,6 +3807,7 @@
 125D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\transformer-svg\node_modules\posthtml-parser\license121436361000000000 0
 102D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\transformer-sass\package.json133262829606180553 0
 127D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\transformer-svg\node_modules\posthtml-parser\readme.md121436361000000000 0
+96D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\settings\_mixins.scss133262846818076213 0
 131D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\transformer-svg\node_modules\posthtml-parser\dist\index.js121436361000000000 0
 108D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\transformer-svg\lib\dependencies.js121436361000000000 0
 110D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js121436361000000000 0
@@ -4402,15 +4408,17 @@
 76D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\.bin\terser133262829608623324 0
 80D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\.bin\terser.cmd133262829608623324 0
 80D:\Programowanie\Coderslab\Best-shop-mobile-desktop\node_modules\.bin\terser.ps1133262829608623324 0
-86D:\Programowanie\Coderslab\Best-shop-mobile-desktop\dist\best-shop-project.734111f3.js133262831819347299 0
+86D:\Programowanie\Coderslab\Best-shop-mobile-desktop\dist\best-shop-project.734111f3.js133262846138698387 0
+76D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\assets133262842131088195 1
+79D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\main.scss133262845884912434 0
 74D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss133262836945870362 1
 83D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\elements133262837635441570 1
-82D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\generic133262837324810090 1
-93D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\settings\main.scss133262837037098500 0
+82D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\generic133262843993141309 1
+96D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\settings\_colors.scss133262846667310809 0
 93D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\generic\_grid.scss133262837159193319 0
-94D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\generic\_reset.scss133262837324810090 0
+94D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\generic\_reset.scss133262843993129744 0
 94D:\Programowanie\Coderslab\Best-shop-mobile-desktop\best-shop-project\scss\elements\_base.scss133262837635441570 0
 68D:\Programowanie\Coderslab\Best-shop-mobile-desktop\.idea\.gitignore133262829475848413 0
 86D:\Programowanie\Coderslab\Best-shop-mobile-desktop\.idea\Best-shop-mobile-desktop.iml133262827527920035 0
 65D:\Programowanie\Coderslab\Best-shop-mobile-desktop\.idea\vcs.xml133262827528218623 0
-71D:\Programowanie\Coderslab\Best-shop-mobile-desktop\.idea\workspace.xml133262835600114133 0
+71D:\Programowanie\Coderslab\Best-shop-mobile-desktop\.idea\workspace.xml133262846134423383 0
