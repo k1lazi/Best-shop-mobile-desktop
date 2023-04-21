@@ -1,19 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
+    <meta charset="UTF-8"/>
     <meta
             name="viewport"
             content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
     />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <title>BestShop</title>
     <link rel="icon" href="assets/shop-icon.png" type="image/png">
     <link
             href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Raleway:300,400,700,800&display=swap&subset=latin-ext"
             rel="stylesheet"
     />
-    <link rel="stylesheet" href="./main.scss" />
+    <link rel="stylesheet" href="./main.scss"/>
 </head>
-<body></body>
+<body>
+<header class="header">
+    <div class="header__container container">
+        <a href="#" class="logo">BestShop</a>
+        <nav class="nav">
+            <input class="trigger" type="checkbox" id="trigger-menu">
+            <label for="trigger-menu" class="hamburger">
+                <span class="hamburger__elements"></span>
+                <span class="hamburger__elements"></span>
+                <span class="hamburger__elements"></span>
+            </label>
+
+            <div class="menu">
+                <a href="#why-us" class="link">Why us</a>
+                <a href="#benefits" class="link">Benefits</a>
+                <a href="#prices" class="link">Prices</a>
+                <a href="#contact" class="link">Contact</a>
+            </div>
+        </nav>
+    </div>
+</header>
+</body>
 </html>
+
+
+<!--<ul class="header__nav">-->
+<!--    <li class="nav__element"><a href="" class="nav__link"></a>Why us</li>-->
+<!--    <li class="nav__element"><a href="#benefits" class="nav__link"></a>Benfits</li>-->
+<!--    <li class="nav__element"><a href="#prices" class="nav__link"></a>Prices</li>-->
+<!--    <li class="nav__element"><a href="#contact" class="nav__link"></a>Contact</li>-->
+<!--</ul>-->

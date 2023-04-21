@@ -1,28 +1,92 @@
 @use "../settings/colors";
-
-.logo-title {
-  color: colors.$primary-color;
-}
+@use "../settings/variables";
+@use "../settings/mixins";
+@use "../elements/base";
+@use "../settings/fonts";
+@use "sass:map";
 
 .header {
-position: relative;
+  height: 70px;
+  box-shadow: 0 3px 6px colors.$shadow-color;
 
-  .nav {
+  &__container {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    height: 100%;
+
+    .logo {
+      color: colors.$primary-color;
+      font: normal normal 300 32px/37px fonts.$font-raleway;
+    }
 
     .hamburger {
-      position: absolute;
-      top: 0;
-      left: 15px;
-      padding: 5px 15px;
-      border-radius: 6px;
-      font-size: 20px;
-      color: colors.$light-color;
-      background-color: rgba(0, 0, 0, 0.2);
-      transition: all .3s ease-in-out;
+      width: 20px;
+      height: 12px;
       cursor: pointer;
+
+      &__elements {
+        background-color: colors.$primary-color;
+        height: 2px;
+        width: 20px;
+        display: flex;
+        margin-bottom: 3px;
+        transition: 1s all ease-in-out;
+
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
+
+    .menu {
+      width: 100%;
+      padding-bottom: 20px;
+      background-color: colors.$light-color;
+      box-shadow: 0 3px 6px colors.$shadow-color;
+      display: none;
+      position: absolute;
+      left: 0;
+      top: 95px;
+      flex-direction: column;
+
+      .link {
+        display: block;
+        color: colors.$gre-text-color;
+        font: normal normal bold 11px/15px fonts.$font-open-sans;
+        padding-bottom: 14px;
+
+        &:last-child {
+          padding-bottom: 0;
+        }
+        &:hover {
+          cursor: pointer;
+          color: colors.$black-text-color;
+        }
+      }
+    }
+
+    .trigger {
+      display: none;
+
+      &:checked {
+        ~ .menu {
+          display: flex;
+        }
+         ~ .hamburger {
+          .hamburger__elements {
+            &:nth-child(1) {
+              transform: rotate(45deg) translate(2px, 5px);
+            }
+            &:nth-child(2) {
+              opacity: 0;
+            }
+            &:nth-child(3) {
+              transform: rotate(-45deg) translate(2px, -5px);
+            }
+          }
+        }
+      }
     }
   }
-
 }
