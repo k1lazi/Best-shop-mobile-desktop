@@ -1,0 +1,44 @@
+@use "../settings/colors";
+@use "../settings/variables";
+@use "../settings/mixins";
+@use "../elements/base";
+@use "../settings/fonts";
+@use "sass:map";
+
+
+.opening {
+
+  &__content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    .opening__title {
+      font: normal normal normal 35px/41px fonts.$font-raleway;
+      color: colors.$black-text-color;
+      padding-top: 100px;
+    }
+
+    .opening__text {
+      text-align: center;
+      font: normal normal normal 16px/22px fonts.$font-open-sans;
+      padding-bottom: 28px;
+    }
+
+    .opening__btn {
+      background-color: colors.$primary-color;
+      border: none;
+      color: colors.$light-color;
+      box-shadow: 5px 10px 14px #07ACE629;
+      border-radius: 40px;
+      opacity: 1;
+      padding: 22px 92px;
+      font: normal normal bold 16px/22px fonts.$font-open-sans;
+      cursor: pointer;
+    }
+  }
+  .opnenig__background {
+    width: 100%;
+    height: auto;
+  }
+}
