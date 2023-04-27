@@ -8,6 +8,7 @@
 .header {
   height: 70px;
   box-shadow: 0 3px 6px colors.$shadow-color;
+  margin-bottom: 150px;
 
   &__container {
     display: flex;
@@ -31,7 +32,7 @@
         width: 20px;
         display: flex;
         margin-bottom: 3px;
-        transition: 1s all ease-in-out;
+        transition: 0.5s all ease-in-out;
 
         &:last-child {
           margin-bottom: 0;

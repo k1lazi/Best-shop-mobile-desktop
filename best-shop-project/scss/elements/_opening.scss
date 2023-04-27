@@ -9,14 +9,12 @@
 .opening {
 
   &__content {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+    display: block;
 
     .opening__title {
       font: normal normal normal 35px/41px fonts.$font-raleway;
       color: colors.$black-text-color;
-      padding-top: 100px;
+      text-align: center;
     }
 
     .opening__text {
@@ -31,8 +29,8 @@
       color: colors.$light-color;
       box-shadow: 5px 10px 14px #07ACE629;
       border-radius: 40px;
-      opacity: 1;
-      padding: 22px 92px;
+      padding: 22px;
+      width: 100%;
       font: normal normal bold 16px/22px fonts.$font-open-sans;
       cursor: pointer;
     }

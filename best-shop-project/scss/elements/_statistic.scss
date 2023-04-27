@@ -1,0 +1,58 @@
+@use "../settings/colors";
+@use "../settings/variables";
+@use "../settings/mixins";
+@use "../elements/base";
+@use "../settings/fonts";
+@use "sass:map";
+
+.statistic__content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  .statistic__title {
+    text-align: center;
+    font:normal normal normal 35px/41px fonts.$font-raleway;
+    letter-spacing: 0;
+    color: colors.$black-text-color;
+    opacity: 1;
+  }
+  .statistic__box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .box__title {
+      font: normal normal 800 20px/24px fonts.$font-raleway;
+      text-align: center;
+      margin-bottom: 19px;
+    }
+    .box__content {
+      text-align: center;
+      font: normal normal normal 16px/19px fonts.$font-raleway;
+      color: colors.$gre-text-color;
+      margin-bottom: 19px;
+    }
+    .box__circle {
+      background-color: colors.$primary-color;
+      border-radius: 50%;
+      width: 63px;
+      height: 63px;
+      position: relative;
+      }
+    .red {
+      background-color: #FB3B64;
+    }
+    .green {
+      background-color: #55DFB4;
+    }
+    .box__img {
+      height: 52px;
+      width: 44px;
+      margin-bottom: 13px;
+      position: absolute;
+      left: 35px;
+      top: 5px;
+    }
+
+  }
+}

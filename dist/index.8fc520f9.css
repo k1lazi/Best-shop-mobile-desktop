@@ -930,4 +930,23 @@ a {
   height: auto;
 }
 
+.statistic__content {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+.statistic__content .statistic__title {
+  text-align: center;
+  letter-spacing: 0;
+  color: #000;
+  opacity: 1;
+  font: 35px / 41px Raleway, sans-serif;
+}
+
+.statistic__content .statistic__box {
+  flex-direction: 15px;
+  display: flex;
+}
+
 /*# sourceMappingURL=index.8fc520f9.css.map */

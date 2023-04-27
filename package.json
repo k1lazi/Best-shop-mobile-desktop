@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "source": "./best-shop-project/index.html",
   "scripts": {
-    "start": "parcel --open chrome",
+    "start": "parcel --open chrome --no-cache --lazy --no-source-maps",
     "build": "parcel build"
   },
   "devDependencies": {
